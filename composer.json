@@ -1,0 +1,15 @@
+{
+    "name": "zarwine/cv",
+    "authors": [
+        {
+            "name": "Jonathan Guazzelli",
+            "email": "jonathanguazzelli@hotmail.fr"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
+    }
+}

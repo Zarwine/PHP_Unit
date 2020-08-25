@@ -1,3 +1,10 @@
-# PHP_Unit
-Quelques exercices pour la prise en main de PHP unit
-Ceci seront basés sur un exercice de candidature pour une entreprise sur Aix en provence.
+# Introduction 
+This project responds to an offer
+
+# Installation
+- `git clone ...`
+- `composer install`
+
+# Use
+- To run the project: `php public/index.php`
+- To test the project: `vendor/bin/phpunit --color tests`
