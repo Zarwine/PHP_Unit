@@ -1,10 +1,9 @@
 # Introduction 
-This project responds to an offer
+This project responds to a job offer
 
 # Installation
-- `git clone ...`
+- `git clone https://github.com/Zarwine/PHP_Unit.git`
 - `composer install`
 
 # Use
-- To run the project: `php public/index.php`
-- To test the project: `vendor/bin/phpunit --color tests`
+- To test the project: `composer run tests`
